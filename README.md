@@ -6,12 +6,16 @@ This repository details a two-stage digital forensic project focused on memory a
 
 Memory Acquisition & Integrity
 - Utilizing professional tools (FTK Imager) to capture volatile system memory, ensuring integrity through checksum verification.
+
 Memory Forensics (Volatility 3)
 - Mastery of memory analysis techniques to extract critical artifacts (processes, network sockets, registry keys) from a compromised system's RAM dump.
+
 Stealth Threat Detection
 - Identifying suspicious or hidden processes and memory regions (malfind) that indicate potential malware presence or system compromise.
+
 Incident Intelligence
 - Extracting vital system data (e.g., operating system version, running services, command history) to reconstruct the state of the machine at the time of compromise.
+
 Network Activity Analysis
 - Correlating active network connections and open sockets within the memory image to identify communication channels established by malicious processes.
 
