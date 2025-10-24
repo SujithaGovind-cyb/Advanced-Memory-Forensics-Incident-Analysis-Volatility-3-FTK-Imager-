@@ -1,4 +1,4 @@
-# Advanced-Memory-Forensics-Incident-Analysis-Volatility-3-FTK-Imager-
+# Advanced Memory Forensics Incident Analysis Volatility 3 FTK Imager
 
 This repository details a two-stage digital forensic project focused on memory acquisition and in-depth analysis to uncover signs of system compromise. Part 1 demonstrates the rigorous process of securing live memory evidence using FTK Imager, ensuring data integrity for court admissibility. Part 2 utilizes the advanced framework Volatility 3.0 to dissect the memory image, identify hidden processes, analyze network connections, and locate suspicious code injection, providing crucial intelligence for incident response and malware analysis. The project validates the critical role of memory forensics in detecting stealthy, fileless threats that often bypass traditional disk-based security controls.
 
